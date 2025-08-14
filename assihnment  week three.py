@@ -1,9 +1,4 @@
 # Step 1: Create input.txt with at least five lines of text
-input_content = """The quick brown fox jumps
-over the lazy dog
-Python is a powerful
-programming language
-for data processing"""
 
 with open('input.txt', 'w') as file:
     file.write(input_content)
